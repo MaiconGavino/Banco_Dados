@@ -1,5 +1,5 @@
 --Questão 1 - Criar uma base de dados no Postgres com o nome de CINEMA e uma tabela de nome FILMES conforme exemplo abaixo.
-CREATE DATABASE CINEMA
+CREATE DATABASE FLORESTA
 
 CREATE TABLE FILMES(
 	ID			INTEGER,
